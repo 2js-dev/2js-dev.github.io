@@ -43,7 +43,7 @@ _tabs/about.md              About 페이지
 | 데이터 | `mysql`, `oracle`, `redis`, `transaction`, `index` |
 | 인프라 | `docker`, `linux`, `nginx`, `jenkins`, `github-actions`, `kafka` |
 | CS | `os`, `network`, `data-structure` |
-| 알고리즘 출처 | `baekjoon`, `programmers`, `leetcode` |
+| 알고리즘 출처 | `baekjoon`, `programmers`, `leetcode`, `claude` |
 | 알고리즘 유형 | `bfs`, `dfs`, `dp`, `greedy`, `binary-search`, `two-pointer`, `sort`, `graph`, `implementation` |
 
 혼동하기 쉬운 표기: `springboot`(X) → `spring-boot`, `ds`(X) → `data-structure`, `boj`(X) → `baekjoon`
@@ -54,7 +54,7 @@ _tabs/about.md              About 페이지
 - 트러블슈팅 제목: 증상이나 에러 키워드를 포함한다
   - X `Spring 트랜잭션 문제 해결`
   - O `@Transactional 내부 호출 시 롤백되지 않는 문제`
-- 알고리즘 문제 제목: `[백준 1234] 문제명`, `[프로그래머스] 문제명`
+- 알고리즘 문제 제목: `[백준 1234] 문제명`, `[프로그래머스] 문제명`, `[Claude] 문제명`
 - description: 검색 노출용 문구보다 "나중에 언제 이 글을 다시 보게 될지"를 기준으로 쓴다 (150자 이내)
 
 ## 5. 다시 찾기 위한 본문 규칙
